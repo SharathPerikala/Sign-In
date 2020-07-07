@@ -1,0 +1,68 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(signin.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+.signinform{
+width: 300px;
+box-shadow: 0 0 3px 0;
+background-color: white;
+padding:20px;
+margin:2% auto 0;
+text-align: center;
+border-radius: 20px;
+
+}
+.checkbox{
+  margin-right: 100px;
+}
+.signinform h1{
+  margin-bottom: 30px
+}
+.inputboxemail{
+  width: 80%;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  padding: 10px;
+  outline: none;
+}
+.inputboxpassword{
+  width: 80%;
+  border-radius: 20px;
+  padding: 10px;
+  outline: none;
+}
+.signinbtn{
+  width:90%;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  outline:none;
+  background-color: #3e64ff;
+  color: white;
+  cursor: pointer;
+}
+.linkgoogle{
+  width:100%;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  outline:none;
+  background-color: #d32626;
+  color: white;
+  cursor: pointer;
+}
+.linkfacebook{
+  width:100%;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  outline:none;
+  background-color: #084177;
+  color: white;
+  cursor: pointer;
+}
